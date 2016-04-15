@@ -1,0 +1,28 @@
+name: Minangkabu
+favicon: null
+layout_spectrum: 0.9945349209010601
+typography_spectrum: 0.39521453622728586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7771546633448452
+  lightness: 0.04002714832313359
+  saturation: 0.8429972946178168
+  rhythmicContrast: 0.06770682753995061
+purpose: []

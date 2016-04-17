@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Minangkabu]]></title>
         <description><![CDATA[Minangkabu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.minangkabu.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 16:50:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 13:59:22 GMT</lastBuildDate>
+        <atom:link href="http://www.minangkabu.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34da1344-78e4-476e-bd4b-270245b1a918.jpg">]]></description>
+            <link>http://www.minangkabu.com/chaca/index.html</link>
+            <guid isPermaLink="false">bc79fcf7-9f01-4ab4-bceb-88cd172b946d</guid>
+            <pubDate>Sun, 17 Apr 2016 13:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Buku Masakan</p>]]></description>
-            <link>undefinedbuku-masakan/index.html</link>
+            <link>http://www.minangkabu.com/buku-masakan/index.html</link>
             <guid isPermaLink="false">8e592258-01e8-4379-983f-ddc48ba99084</guid>
             <pubDate>Fri, 15 Apr 2016 16:50:39 GMT</pubDate>
         </item>
